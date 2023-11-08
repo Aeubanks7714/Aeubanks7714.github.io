@@ -1,0 +1,130 @@
+:: StoryTitle
+The Tudor Dilemma
+
+
+:: StoryData
+{
+  "ifid": "8E4920F9-FA86-453C-8B67-7DA6F8E3908B",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "Tudor England",
+  "zoom": 1
+}
+
+
+:: Align with rebelious factions {"position":"1175,900","size":"100,100"}
+(text-color:green)[You align with rebellious factions opposing the Tudor regime, driven by unyielding conviction. In secrecy, you collaborate with like-minded rebels, planning acts of resistance against the crowns's policies. Your involvement deepens, and you become a trusted member. Danger is constant, as King Henry VII's agents relentlessy pursue dissenters. In a dim tavern, surronded by fellow rebels, plans are made for a daring act of defiance. Your unwavering commitment to the cause sets the stage for a pivital moment in Tudor history, where the fate of England hangs in the balance.]
+
+
+(text-color:navy)[[End of an Era]]
+
+
+
+
+
+
+:: Do not join {"position":"800,650","size":"100,100"}
+(text-color:green)[You have entered the dark whole. I would consider your choices and follow the right path of history.] 
+
+(text-colour:navy)[Have a Great Day!]
+
+
+:: Embrace the Protestant Faith {"position":"1050,1150","size":"100,100"}
+(text-color:green)[You choose to align yourself with the growing Protestant movement. Witness the spread of Reformed Christianity, the influence of reformers like Thomas Cranmer, and the introduction of the English Book of Common Prayer. Your support for these changes shapes the religious future of England.]
+
+
+
+:: Henry VII has ascended to the throne {"position":"925,650","size":"100,100"}
+(text-color:green)[Making a significant turning point in Tudor history. The Reformation, a religious revolution, looms on the horizon. You are faced with a  crucial decision: will you support the king's efforts  to reform the Church or stand against the tide of change?]
+
+(text-colour:navy)[[Support the Reformation]]
+(text-colour:navy)[[Oppose the Reformation]]
+
+
+:: Hold onto Catholic Beliefs {"position":"1175,1150","size":"100,100"}
+(text-color:green)[Preferring the traditional Catholic faith, you resist the tide of religious reform. In secret, you continue to practice Catholic rituals and attend underground Masses. Your faith becomes a source of solace and strength in a changing world. However, practicing Catholicism in a Protestant England comes with risks, and you must be cautious to avoid detection.]
+<img src="C:\Users\andre\OneDrive\Desktop\catholic.jpg" width="300"  height="300" 
+
+
+
+:: Join Lancasters {"position":"800,525","size":"100,100"}
+(text-color:green)[Congradutations! Your unwavering loyalty to the Lancasters has paid off. With the Lancastrians emerging victorious at the Battle of Bosworth Field. Henry VII ascends to the throne, becoming King of England,. As you steer into this new era, you'll encounter both challenges and opportunities as your navigate the intracacies of his reign and court politics.]
+<img src="C:\Users\andre\OneDrive\Desktop\passage7.jpg" width="500" height="500"
+(text-colour:navy)[[Henry VII has ascended to the throne]]
+
+
+
+
+:: Join Yorks {"position":"550,550","size":"100,100"}
+(text-color:green)[Despite your valor in battle, your side, the Yorkists, faces defeat at Bosworth Field.Henry VII is now the ruler of England, and you must come to terms with the consequences of your choices. Life at the Tudor court will not be easy, and your Yorkist affiliation may influence your standing in the new regime.]
+
+
+:: No {"position":"675,525","size":"100,100"}
+(text-color:navy)[[Join Lancasters]] 
+
+
+:: Oppose the Reformation {"position":"1050,775","size":"100,100"}
+(text-color:green)[Your oppostition to Henry VII's religious reofrms places you in a precarious position. Navigating the dangers of going against the king's wishes becomes a constant challenge. As the Reformation sweeps through England, your defiance carries both personal and political consequences.]
+
+(text-colour:navy)[[Seek favor at court]]
+(text-colour:navy)[[Align with rebelious factions]]
+
+
+:: Seek favor at court {"position":"1050,900","size":"100,100"}
+(text-color:green)You choose to see favor at the Tudor court, a world of dazzling splendor and intricate politics. With ambition guiding your every step, you navigate court life, mastering etiquette and flattery. Months pass, your efforts bear fruit as you catch the eye of a trusted advisor to the king. Your influence grows steadily, and at a grand ball, you converse with King Henry VIII himself. Your rise at court has only just begun, boundless opportunities await.
+
+(text-colour:navy)[[The Tudor Era Has Entered A new Phase]]
+
+
+:: Support the Lancasters {"position":"675,400","size":"100,100"}
+(text-color:green)[With your unwavering support of the Lancasters, you embark on a journey filled with hope and determination. Witness the rise of Henry VII, who emerges as a beacon of light amidst the Lancastarian cause. Your loyalty plays a crucial role in their eventual triumph over the Yorkists, and as the Tudor dynasty begins to take root, your influence at court grows stronger.]
+ 
+ 
+(text-color:yellow)[Will you fight with the Lancasters?]
+
+(text-color:navy)[[Join Lancasters]]
+
+(text-color:navy)[[Do not join]]
+
+
+:: Support the Reformation {"position":"925,775","size":"100,100"}
+(text-color:green)[Your support for Henry VII break with the Catholic Church has far-reaching consequences. Witness the dissolution of monastaries, the spread of Protestantism, and the profound changes in religious practices. As England transforms, your role in shaping this new religious landscape becomes increasingly apparent.]
+
+<img src="C:\Users\andre\OneDrive\Desktop\passage11.jpg" width="500 height="500"
+
+
+
+
+:: Support the Yorks {"position":"550,400","size":"100,100"}
+(text-color:green)[By siding with the Yorks, you embrace the challenges and complexities faced by this beleaguered house. Richard III, a controversial figure in history, becomes your leader. YOur choice carries consequences as you navigate a treacherous political landscape filled with Yorkist loyalists and cunning rivals.]
+
+(text-color:red)[The Battle of Bosworth Field is approaching.] 
+
+(text-color:yellow)[Do you choose to Fight with the Yorks?]
+
+(text-color:navy)[[Join Yorks]]
+(text-color:navy)[[No]]
+
+
+
+
+
+
+
+:: The Tudor Era Has Entered A new Phase {"position":"1050,1025","size":"100,100"}
+(text-color:green)[The Tudor era has entered a new phase, and England is on the brink of great change. The religious landscape continues to shift, and you must decide whether to embrace the emerging Protestant faith or hold onto your Catholic beliefs.]
+<img src="C:\Users\andre\OneDrive\Desktop\passage17.webp" width="500" height="500"
+(text-color:navy)[[Embrace the Protestant Faith]]
+(text-color:navy)[[Hold onto Catholic Beliefs]]
+
+
+:: Tudor England {"position":"550,275","size":"100,100"}
+(text-color:green)[You are in Tudor England during the Wars of the Roses, a tumultuous period marked by the fierce rivalry between the Lancasters and the Yorks. The kingdom is in chaos as noble houses and their armies clash for control of the throne. The air is thick with tension, and your choices here will undoubtedly shape the fate of this divided realm.]
+<img src="C:\Users\andre\OneDrive\Desktop\PAssage 1.jpg" alt="Wars of Roses" height="500" width="500"
+
+(text-color:yellow)[Whos side do you support?]
+
+(text-colour:navy)[[Support the Lancasters]]
+(text-colour:navy)[[Support the Yorks]]
+
+
